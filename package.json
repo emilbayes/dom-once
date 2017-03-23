@@ -1,0 +1,30 @@
+{
+  "name": "dom-once",
+  "version": "0.0.0",
+  "description": ".once for DOM Events",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "tape": "^4.6.2"
+  },
+  "scripts": {
+    "test": "tape test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emilbayes/dom-once.git"
+  },
+  "keywords": [
+    "once",
+    "addEventListener",
+    "removeEventListener",
+    "dom",
+    "browser"
+  ],
+  "author": "Emil Bay <github@tixz.dk>",
+  "license": "Proprietary",
+  "bugs": {
+    "url": "https://github.com/emilbayes/dom-once/issues"
+  },
+  "homepage": "https://github.com/emilbayes/dom-once#readme"
+}
