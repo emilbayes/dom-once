@@ -1,6 +1,6 @@
 {
   "name": "dom-once",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": ".once for DOM Events",
   "main": "index.js",
   "dependencies": {},
